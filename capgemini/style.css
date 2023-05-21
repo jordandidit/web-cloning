@@ -1,8 +1,0 @@
-.nav-bg {
-    background-color: transparent;
-    transition: background-color 0.3s;
-}
-
-.nav-bg:hover {
-    background-color: white;
-}
